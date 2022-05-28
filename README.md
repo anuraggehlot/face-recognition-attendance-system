@@ -36,7 +36,7 @@ using a Linear SVM (scikit-learn)
 
  
 ## How To Run ?
-- clone it on your computer
+- clone it on your computer python version (3.7.8)
 - make a separate [python virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) or use the default one already installed on your machine
 - Download [this](https://drive.google.com/uc?export=download&id=1HzO-rnEqgkZ6tLt48yWhYgHk1_zOIYhf) file 
  - put it inside **``` \Attendance-System-Using-Face-Recognition\face_recognition_data ```** directory
