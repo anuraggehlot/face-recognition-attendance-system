@@ -34,6 +34,11 @@ face_recognition by Adam Geitgey
 ## Classification of Unknown Embedding 
 using a Linear SVM (scikit-learn)
 
+## Basic Requirements
+- python (version 3.7.8)
+- Visual Studio Community 2022 (pakages- c++/python)
+- CMake (version 3.23.2)
+
  
 ## How To Run ?
 - clone it on your computer python version (3.7.8)
