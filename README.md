@@ -35,16 +35,14 @@ face_recognition by Adam Geitgey
 using a Linear SVM (scikit-learn)
 
 ## Basic Requirements
-- python (version 3.7.8)
+- python (version 3.8.8)
 - Visual Studio Community 2022 (pakages- c++/python)
 - CMake (version 3.23.2)
 
  
 ## How To Run ?
-- clone it on your computer python version (3.7.8)
+- clone it on your computer python version (3.8.8)
 - make a separate [python virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) or use the default one already installed on your machine
-- Download [this](https://drive.google.com/uc?export=download&id=1HzO-rnEqgkZ6tLt48yWhYgHk1_zOIYhf) file 
- - put it inside **``` \Attendance-System-Using-Face-Recognition\face_recognition_data ```** directory
 - run **``` pip install -r requirements.txt inside \Attendance-System-Using-Face-Recognition ```** directory
 - Run **``` python manage.py runserver ```** inside **``` \Attendance-System-Using-Face-Recognition ```** directory to run the project
 - Enjoy !
@@ -53,13 +51,7 @@ using a Linear SVM (scikit-learn)
 
 ```javascript
 
-if (youEnjoyed) {
-    starThisRepository();
-}
-
-```
-
 -----------
 
 ## Thank You
-- Author : [Anurag gehlot]
+- Author : Anurag gehlot
